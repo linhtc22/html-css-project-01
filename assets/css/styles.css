@@ -1,0 +1,61 @@
+:root {
+  --primary-color: #0f1b4c;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+html,
+body {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-size: 1.6rem;
+  font-family: 'Poppins', sans-serif;
+}
+
+/* Common */
+a {
+  text-decoration: none;
+}
+
+.fixed {
+  background-color: #e6f0ff;
+  z-index: 1;
+}
+
+.hero {
+}
+
+.clients {
+}
+
+.services {
+}
+
+#features {
+}
+
+.featured {
+}
+
+#resources {
+}
+
+.stats {
+}
+
+#contact {
+}
+
+.subsription {
+}
+
+.footer {
+}
